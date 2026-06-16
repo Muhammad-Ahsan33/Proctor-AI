@@ -1,4 +1,4 @@
-# AI Examination System 🎓
+# AI Examination System
 
 > An Intelligent Examination Platform powered by **OCR, NLP, Speech Recognition, Computer Vision, and Behavioral Analytics** for automated assessment and cheating detection.
 
@@ -6,9 +6,9 @@
 
 The **AI Examination System** is a comprehensive intelligent examination platform designed to automate the evaluation of:
 
-* ✍️ Handwritten Exams
-* ⌨️ Typing-Based Exams
-* 🎥 Online Video-Based Exams
+* Handwritten Exams
+* Typing-Based Exams
+* Online Video-Based Exams
 
 The system combines multiple AI technologies including:
 
@@ -21,7 +21,7 @@ The system combines multiple AI technologies including:
 
 ---
 
-# 🚀 Features
+# Features
 
 ## 1. Handwritten Exam Evaluation
 
@@ -154,7 +154,7 @@ Detects:
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
                     AI Examination System
@@ -188,7 +188,7 @@ Handwritten Test      Typing Test      Online Meeting Test
 
 ---
 
-# 🧠 AI Models Used
+# AI Models Used
 
 | Model                        | Purpose                      |
 | ---------------------------- | ---------------------------- |
@@ -201,7 +201,7 @@ Handwritten Test      Typing Test      Online Meeting Test
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 AI-Examination-System/
@@ -224,7 +224,7 @@ AI-Examination-System/
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ## Clone Repository
 
@@ -264,7 +264,7 @@ pip install -r requirements.txt
 
 ---
 
-# 📦 Required Packages
+# Required Packages
 
 ```txt
 streamlit
@@ -284,7 +284,7 @@ pyspellchecker
 
 ---
 
-# ▶️ Run Application
+# Run Application
 
 ```bash
 streamlit run app.py
@@ -298,7 +298,7 @@ http://localhost:8501
 
 ---
 
-# 🔍 Examination Workflow
+# Examination Workflow
 
 ## Step 1: Load AI Models
 
@@ -354,7 +354,7 @@ View:
 
 ---
 
-# 📊 Scoring Methodology
+# Scoring Methodology
 
 ## Semantic Similarity Scoring
 
@@ -386,7 +386,7 @@ Final Score =
 
 ---
 
-# 🚨 Cheating Detection Mechanisms
+# Cheating Detection Mechanisms
 
 ## Typing Test
 
@@ -418,7 +418,7 @@ Final Score =
 
 ---
 
-# 📈 Future Improvements
+# Future Improvements
 
 * Real-Time Webcam Proctoring
 * Live Examination Sessions
@@ -433,7 +433,7 @@ Final Score =
 
 ---
 
-# 🎯 Learning Outcomes
+# Learning Outcomes
 
 This project demonstrates practical implementation of:
 
@@ -449,7 +449,7 @@ This project demonstrates practical implementation of:
 
 ---
 
-# 👨‍💻 Authors
+# Authors
 
 **Muhammad Ahsan**
 
